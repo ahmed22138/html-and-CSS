@@ -1,0 +1,168 @@
+
+
+
+.tt{
+   position: absolute;
+    height: 60px;
+    width: 50px;
+    left: 6px;
+    top: 1px;
+    border-radius: 20px;
+    
+}
+
+
+
+.gf{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: #000;
+    margin-top: -10px;
+   /* padding-top: 40px; */
+    color:aliceblue;
+    margin-left: -10px;
+    padding: 20px;
+    gap: 25px;
+  
+   
+}
+
+.ty{
+position: absolute;
+right: 60px;
+width:60px;
+height: 30px;
+font-weight: bold;
+}
+
+.ty:hover{
+    background:#3a5eff;
+    color: whitesmoke;
+
+}
+
+.io{
+    display: flex;
+   margin-top: 200px;
+    padding-left: 70px;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.yt{
+    margin-top: -16px;
+  padding-left: 70px ;
+}
+
+.hit{
+    position: absolute;
+    left: 950px;
+    margin-top: -305px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.lit{
+    position: absolute;
+    left:70px;
+    height: 400px;
+    margin-top:240px;
+}
+
+.to{
+    display: flex;
+    font-weight: bold;
+    font-size: 60px ;
+    position: absolute;
+    margin-left: 70vh;
+    margin-top: 37vh;
+   
+}
+
+.pt{
+    position: absolute;
+    margin-left: 70vh;
+    margin-top: 50vh;
+   
+}
+
+.h-11{
+    display: flex;
+    justify-content: center;
+    margin-top: 760px;
+    font-size: 70px;
+}
+
+.idt{
+    display: flex;
+    justify-content: center;
+     
+}
+
+textarea{
+   padding: 5px;
+  height: 20vh;
+    width: 55vh;
+margin-top: 25px;
+    margin-left: 70px;
+}
+
+input{
+    padding: 20px;
+    border-radius: 7px;
+    width: 35vh;
+    
+}
+
+.hi{
+ position: absolute;
+ left: 93vh;
+ height: 50px;
+ font-weight: bold;
+ font-size: 15px;
+}
+
+.hi:hover{
+    background: #000;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+.fi{
+   background: #000;
+   margin-top: 200px;
+   width: 220vh;
+   margin-left: -10px;
+   height: 40vh;
+}
+
+.yits{
+    position: absolute;
+    color: whitesmoke;
+     left: 180px;
+     margin-top: -80px;
+
+}
+
+.jit{
+    margin-left: 72px;
+    margin-top: 15px;
+    width: 100px;
+    border-radius: 30px;
+}
+
+.name{
+
+position: absolute;
+color: aliceblue;
+left: 35%;
+margin-top: -85px;
+
+}
+
+.st{
+    position: absolute;
+    margin-top: -170px;
+    left:200%;
+}
